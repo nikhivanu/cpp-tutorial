@@ -19,6 +19,5 @@ int main(){
     string phrase = "Giraffe Academy";
     int age = -50;
     double gpa = 2.3;
-    bool isMale = false;
     cout << grade << endl;
 }
